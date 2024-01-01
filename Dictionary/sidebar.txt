@@ -1,0 +1,2 @@
+{{indexmenu>..#3|navbar nocookie skipfile+/(^|:)(start|sidebar|media|wiki)$/}}
+

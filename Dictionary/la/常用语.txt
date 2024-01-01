@@ -1,0 +1,25 @@
+====   ====
+
+|副词  |En  |代词  |En  |En  |Zh  |En  |Zh  |
+|nōn  |not  | <font inherit/inherit;;#c0392b;;inherit>**nihil **</font>   |nothing  |nihilism  |虚无主义  |歼灭  |annihilate  |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+
+| 连词  | En   | 代词                            | En          |
+| sī    | if   | mē                              | me，myself  |
+| et    | and  | [[:la:短语#quid_pro_quo|quid]]  | what        |
+
+| 副词   | En     | 形容词  | En      |
+| saepe  | often  | ūtilis  | useful  |
+| hodiē  | today  |         |         |
+|        |        |         |         |
+|        |        |         |         |
+
+==== 副词  ====
+
+| 副词   | En       | En       | Zh          | En      | Zh    |
+| bis    | twice    | bicycle  | 自行车      |         |       |
+| cito   | quickly  | excite   | 激发，兴奋  | incite  | 煽动  |
+| lentē  | slowly   |          |             |         |       |
+|        |          |          |             |         |       |
+

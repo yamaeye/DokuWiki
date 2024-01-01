@@ -1,0 +1,59 @@
+==== -ēre ====
+
+|-ēre  |En  |En  |Zh  |En  |Zh  |
+|dēbēre  |to owe  |debt  |债务  |debit  |借方  |
+|   |ought, must  |duty  |责任，税  |due  |由于，应得的  |
+|monēre  |to remind  |monument  |纪念碑  |monster  |庞大的，怪物  |
+|   |advise  |admonish  |告诫  |monitor  |监控  |
+|   |warn  |premonition  |( 不祥的 )  |   |预感  |
+
+|-ēre  |En  |En  |Zh  |En  |Zh  |
+|terrēre  |to frighten, terrify  |terror  |恐怖  |deter  |威慑  |
+| <font inherit/inherit;;#999999;;inherit>eg:</font>   |[[:la:常用语|Nihil]] mē terret.  |terrify  |使恐惧  |terrific  |极好的  |
+
+==== -āre ====
+
+|-āre  |En  |En  |Zh  |En  |Zh  |
+|dare  |to give, offter  |date  |日期，约会  |data  |数据，资料  |
+|errāre  |to wander  |erratic  |不稳定的  |errant  |出格的  |
+|   |err, make a mistake  |error  |错误  |erroneous  |错误的  |
+|   |go astray, be mistaken  |aberration  |反常，失常  |   |   |
+|peccāre  |to sin  |peccadillo  |轻罪，小错误  | <font inherit/inherit;;#999999;;inherit>eg:</font>   |[[:la:常用语|Saepe]] peccāmus.  |
+
+|-āre  |En  |En  |Zh  |
+|cōgitāre  |to think, ponder,consider, plan  |cogitate  |深思熟虑，谋划  |
+| <font inherit/inherit;;#999999;;inherit>eg:</font>   |Saepe nihil cōgitās.  |   |   |
+|coniugāre  |join together  |   |变位  |
+|amāre  |to love, like  |amatory  |恋爱的，情人的  |
+|[[:la:例句|amabō tē]]  |please  | <font inherit/inherit;;#999999;;inherit>eg:</font>   |Mē nōn amat.  |
+|laudāre  |to praise  |laud  |赞美  |
+|[[:la:短语#mea_culpa|culpāre]]  |to blame, censure  | <font inherit/inherit;;#999999;;inherit>eg:</font>   |Laudās mē; culpant mē.  |
+|[[:la:例句:festina|festīnāre]]  |to hasten, make haste  | <font inherit/inherit;;#999999;;inherit>eg:</font>   |Festīnā [[:la:常用语|lentē]].  |
+|   |   |   |   |
+
+==== S+V ====
+
+|-āre/-ēre  |En  |En  |Zh  |En  |Zh  |
+|servāre  |to preserve, save, keep, guard  |preserve  |维持  |reserve  |预留  |
+| <font inherit/inherit;;#999999;;inherit>eg:</font>   |Apollō mē saepe servat.  |observe  |观察，监视  |   |   |
+|cōnservāre  |to conserve, maintain  |conserve  |保藏，节省  |conservative  |保守的  |
+| <font inherit/inherit;;#999999;;inherit>eg:</font>   |cōnservāte mē!  |   |   |   |   |
+|salvēre  |to be well, be in good health  |salvage  |抢救  |salver  |托盘  |
+|salvēte  |hello，greetings  |   |   |   |   |
+|valēre  |to be strong, be well, have power  |valid  |有效的，合理的  |invalidate  |作废，驳斥  |
+|valē（valēte）  |good-bye, farewell  |prevail  |占优势，盛行  |valedictory  |告别辞  |
+|   |   |   |   |   |   |
+
+==== V ====
+
+|-āre/-ēre  |En  |En  |Zh  |En  |Zh  |
+|volāre  |to fly  |volatile  |不稳定的，易变的  |eg:  |Rūmor volat.  |
+|vocāre  |to call, summon  |evoke  |唤起  |invoke  |援引，唤起  |
+| <font inherit/inherit;;#999999;;inherit>eg:</font>   |Labor mē vocat.  |convoke  |召集  |provoke  |激怒，引起  |
+|   |   |revoke  |废除，撤销  |advocate  |拥护，提倡  |
+|   |   |vocation  |天职，使命感  |vocabulary  |词汇量  |
+|vidēre  |to see  |view  |观点，视野，观看，风景  |television  |电视  |
+|   |observe  |review  |审查，评论，回顾  |revise  |修正，复习  |
+|   |understand  |evident  |显然的  |provide  |提供  |
+| <font inherit/inherit;;#999999;;inherit>eg:</font>   |Salvēte!——quid vidētis?  |   |Nihil vidēmus.  |   |   |
+
